@@ -1,0 +1,19 @@
+
+[
+    {
+        "figure": "./img/人物1.png",
+        "jump": "./img/跳1.png",
+        "down": "./img/下1.png",
+        "adv": "./img/前1.png",
+        "back": "./img/后1.png",
+        "shited": "./img/中招1.png",
+        "fist": "./img/出拳1.png",
+        "leg": "",
+        "fistInAir": "",
+        "legInAir": "./img/飞踹1.png"
+    },
+    {
+
+    }
+
+]
